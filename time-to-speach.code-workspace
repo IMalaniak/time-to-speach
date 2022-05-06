@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "eslint.options": {
+      "extensions": [".ts", ".html"]
+    },
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+      "html"
+    ],
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
+  }
+}
